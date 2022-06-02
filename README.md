@@ -11,4 +11,4 @@
 - Tensorflow
 - Keras
 - ANN
-- Google colab
+- Google Colab
