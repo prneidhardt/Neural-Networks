@@ -1,5 +1,5 @@
 # Neural-Networks
-- Project completed as part of Great Learning's Post Graduate Program in Artificial Intelligence and Machine Learning
+- Project completed as part of Great Learning's Postgraduate Program in Artificial Intelligence and Machine Learning
 - Project delivered in March 2022
 - Repository includes two files:
   - Jupyter notebook with Python code written for data analysis and model building
